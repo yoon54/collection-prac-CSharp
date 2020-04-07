@@ -1,0 +1,11 @@
+C:\Users\henry\desktop\coding\c#\collection-practice\bin\Debug\netcoreapp2.2\collection-practice.deps.json
+C:\Users\henry\desktop\coding\c#\collection-practice\bin\Debug\netcoreapp2.2\collection-practice.runtimeconfig.json
+C:\Users\henry\desktop\coding\c#\collection-practice\bin\Debug\netcoreapp2.2\collection-practice.runtimeconfig.dev.json
+C:\Users\henry\desktop\coding\c#\collection-practice\bin\Debug\netcoreapp2.2\collection-practice.dll
+C:\Users\henry\desktop\coding\c#\collection-practice\bin\Debug\netcoreapp2.2\collection-practice.pdb
+C:\Users\henry\desktop\coding\c#\collection-practice\obj\Debug\netcoreapp2.2\collection-practice.csprojAssemblyReference.cache
+C:\Users\henry\desktop\coding\c#\collection-practice\obj\Debug\netcoreapp2.2\collection-practice.csproj.CoreCompileInputs.cache
+C:\Users\henry\desktop\coding\c#\collection-practice\obj\Debug\netcoreapp2.2\collection-practice.AssemblyInfoInputs.cache
+C:\Users\henry\desktop\coding\c#\collection-practice\obj\Debug\netcoreapp2.2\collection-practice.AssemblyInfo.cs
+C:\Users\henry\desktop\coding\c#\collection-practice\obj\Debug\netcoreapp2.2\collection-practice.dll
+C:\Users\henry\desktop\coding\c#\collection-practice\obj\Debug\netcoreapp2.2\collection-practice.pdb
